@@ -1,3 +1,4 @@
+<h1>Space Invaders using Pygame</h1>
 A simpler version of the famous card game BlackJack, which you can run on your command line and play with a virtul dealer.
 Game rules:
 1) Dealer and player start out with two cards each.
@@ -10,7 +11,8 @@ Game rules:
 
 <h2>How to play:</h2>
 <ol>
-  <li>Clone this repository: <pre><code>git clone https://github.com/RikGanguli/Blackjack.git</code></li></pre>
+  <li>Clone this repository: <pre><code>git clone https://github.com/RikGanguli/Blackjack.git</code></pre></li>
+  <li>Insatll pygame <code>pip install pygame</code></li>
   <li>Run <code>python BlackJack.py</code> in your terminal</li>
   <li>Follow the prompts to either <em>hit</em> or <em>stand</em>.</li>
   <li>Try to get your card total as close to 21 without going over, and beat the dealer’s hand!</li>
