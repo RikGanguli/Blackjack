@@ -4,10 +4,10 @@ A simpler version of the classic card game Blackjack, which you can run on your 
 <ol>
   <li>Dealer and player start out with two cards each.</li>
   <li>One card of the dealer remains hidden while the other card is visible to everyone.</li>
-  <li>Both the player's cards are visible to everyone.</li>
+  <li>Both cards of the player are visible to everyone.</li>
   <li>The player can decide to hit or stand.</li>
   <li>At the end of the game the player whose sum of cards is 21 or closest to 21 wins.</li>
-  <li>In this version of the game the dealer can hit only upto a sum of 17.</li>
+  <li>In this version of the game the dealer can hit only up to a sum of 17.</li>
   <li>If the dealer or the player exceeds the sum of 21, they bust and the other player wins.</li>
 </ol>
 
