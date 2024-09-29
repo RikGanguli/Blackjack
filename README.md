@@ -11,7 +11,7 @@ Game rules:
 <h2>How to play:</h2>
 <ol>
   <li>Clone this repository: <pre><code>git clone https://github.com/RikGanguli/Blackjack.git</code></li></pre>
-  <li>Run <code>Python BlackJack.py</code> in your terminal</li>
+  <li>Run <code>python BlackJack.py</code> in your terminal</li>
   <li>Follow the prompts to either <em>hit</em> or <em>stand</em>.</li>
   <li>Try to get your card total as close to 21 without going over, and beat the dealer’s hand!</li>
 </ol>
